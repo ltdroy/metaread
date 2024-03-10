@@ -12,7 +12,7 @@
 #'
 #'
 
-read_csv_with_meta <- us(file, metadata){
+read_csv_with_meta <- function(file, metadata){
 
   supported_args <- list(
     delim = NULL,
