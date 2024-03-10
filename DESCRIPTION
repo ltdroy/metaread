@@ -1,0 +1,12 @@
+Package: metaread
+Title: Specify common flat file reads with JSON metadata
+Version: 0.0.0.9000
+Authors@R: 
+    person("Laurence", "Droy",role = c("aut"))
+Description: Store the specifications for reading flat files in JSON data and use to control data read functions. Useful for automated systems, incl. Airflows. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    readr

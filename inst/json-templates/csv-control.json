@@ -1,0 +1,17 @@
+{
+  "delim": "NULL",
+  "escape_backslash": "FALSE",
+  "escape_double": "TRUE",
+  "col_names": "TRUE",
+  "col_types": {"col_a":"c", "col_b":"n"},
+  "col_select": "NULL",
+  "id": "NULL",
+  "na": ["", "NA"],
+  "quoted_na": "TRUE",
+  "comment": "",
+  "trim_ws": "FALSE",
+  "skip": 0,
+  "guess_max": 1000,
+  "name_repair": "unique",
+  "skip_empty_rows": "TRUE"
+}
