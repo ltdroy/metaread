@@ -1,4 +1,5 @@
 {
+  "file_type": "csv",
   "delim": "NULL",
   "escape_backslash": "FALSE",
   "escape_double": "TRUE",
